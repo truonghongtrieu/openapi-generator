@@ -623,6 +623,7 @@ Here are some companies/projects (alphabetical order) using OpenAPI Generator in
 - [Glovo](https://glovoapp.com/)
 - [GMO Pepabo](https://pepabo.com/en/)
 - [GoDaddy](https://godaddy.com)
+- [Go1](https://www.go1.com)
 - [Gumtree](https://gumtree.com)
 - [Here](https://developer.here.com/)
 - [IBM](https://www.ibm.com/)
